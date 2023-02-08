@@ -1,0 +1,1 @@
+web: java -jar -Dserver.port=$PORT build/libs/React-and-springboot-backend-0.0.1-SNAPSHOT.jar
